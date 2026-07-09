@@ -1,2 +1,2 @@
 # composekit
-BrainPiper's open React component SDK. Production-ready components built on Radix UI and shadcn/ui, with support for AI-generated widget embedding via BrainPiper Studio.
+Ship React UI faster with ready-made, themeable components. Built on Radix UI primitives and shadcn/ui, styled with Tailwind CSS. Optionally embed AI-generated widgets from BrainPiper Studio with a single line of JSX.
